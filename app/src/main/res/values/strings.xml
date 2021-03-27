@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Inspire Academy</string>
+    <string name="INFORMATION_CHANNEL_ID">info</string>
+    <string name="CHANNEL_NEWS">News</string>
+    <string name="CHANNEL_DESCRIPTION">Get informed with new updates</string>
+    <string name="DEBUG_TAG">LearningPushNotification</string>
+    <string name="app_update_default_title">New version available</string>
+    <string name="app_update_default_description">Looks like you have an older\nversion of the app.\nPlease update to get latest\nfeatures and best experience.</string>
+    <string name="app_update_positive_text">UPDATE NOW</string>
+</resources>
